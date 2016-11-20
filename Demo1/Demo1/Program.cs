@@ -10,10 +10,19 @@ namespace Demo1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("gitup xxx 174455641@qq.com");
             Console.WriteLine("gitup xxxbbbb ");
+=======
+
+
+            //dsadada 
 
             Console.WriteLine("gitup xxx ");
+>>>>>>> e7e0689a9b1be2c72e929b45871c543b70f5e4db
+
+            Console.WriteLine("gitup xxx ");
+
         }
     }
 }
