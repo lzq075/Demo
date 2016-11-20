@@ -13,11 +13,8 @@ namespace Demo1
             Console.WriteLine("gitup xxx 174455641@qq.com");
             Console.WriteLine("gitup xxxbbbb ");
             Console.WriteLine("gitup xxx 174455641@qq.com");
-            Console.WriteLine("gitup xxxbbbb ");
-            Console.WriteLine("gitup xxx 174455641@qq.com");
-            Console.WriteLine("gitup xxxbbbb ");
-            Console.WriteLine("gitup xxx 174455641@qq.com");
-            Console.WriteLine("gitup xxxbbbb ");
+            Console.WriteLine("测试1");
+           
         }
     }
 }
