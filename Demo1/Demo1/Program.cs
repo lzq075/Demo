@@ -10,7 +10,7 @@ namespace Demo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("gitup xxx ");
+            Console.WriteLine("gitup xxx 174455641@qq.com");
             Console.WriteLine("gitup xxx ");
 
             Console.WriteLine("gitup xxx ");
