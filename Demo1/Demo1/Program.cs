@@ -11,7 +11,12 @@ namespace Demo1
         static void Main(string[] args)
         {
 
+
             //dsadada 
+
+            Console.WriteLine("gitup xxx ");
+
+
         }
     }
 }
