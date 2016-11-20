@@ -10,6 +10,7 @@ namespace Demo1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("gitup xxx ");
         }
     }
 }
