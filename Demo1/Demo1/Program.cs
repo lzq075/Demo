@@ -11,6 +11,9 @@ namespace Demo1
         static void Main(string[] args)
         {
             Console.WriteLine("gitup xxx ");
+            Console.WriteLine("gitup xxx ");
+
+            Console.WriteLine("gitup xxx ");
         }
     }
 }
