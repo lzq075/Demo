@@ -1,0 +1,6 @@
+D:\gitup\Demo1\Demo1\bin\Debug\Demo1.exe.config
+D:\gitup\Demo1\Demo1\bin\Debug\Demo1.exe
+D:\gitup\Demo1\Demo1\bin\Debug\Demo1.pdb
+D:\gitup\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\gitup\Demo1\Demo1\obj\Debug\Demo1.exe
+D:\gitup\Demo1\Demo1\obj\Debug\Demo1.pdb
