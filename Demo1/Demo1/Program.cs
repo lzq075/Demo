@@ -15,8 +15,14 @@ namespace Demo1
             //dsadada 
 
             Console.WriteLine("gitup xxx ");
+<<<<<<< HEAD
 
 
+=======
+            Console.WriteLine("gitup xxx ");
+
+            Console.WriteLine("gitup xxx ");
+>>>>>>> 27e06df01ff3ecff086a0394494e16334264ad8d
         }
     }
 }
